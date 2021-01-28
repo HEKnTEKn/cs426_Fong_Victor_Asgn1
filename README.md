@@ -7,3 +7,8 @@ This assignment follows the theme of "What does home mean to me" by means of sho
 Credit to the TA for supplied code and bb8 model, as well as CGTrader for free, CC models.
 
 https://youtu.be/DsSIdpKZ4qE
+
+
+Reviews:
+Jiajun Mo
+Jonathan Laughton
